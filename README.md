@@ -42,7 +42,9 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-%20Eclipse%20IDE?logo=eclipseide&logoColor=white&labelColor=%232C2255&color=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20Visual%20Studio%20Code?logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=ffffff)
 ![Postman](https://img.shields.io/badge/Postman%20-%20Postman?logo=postman&logoColor=white&labelColor=%23FF6C37&color=ffffff)
-![Docker](https://img.shields.io/badge/Docker%20-%20Postman?logo=postman&logoColor=white&labelColor=%23FF6C37&color=ffffff)
+![Docker](https://img.shields.io/badge/Docker%20-%20Docker?logo=postman&logoColor=white&labelColor=%23FF6C37&color=ffffff)
+![ChatGPT](https://img.shields.io/badge/ChatGPT%20-%20ChatGPT?logo=ChatGPT&logoColor=white&labelColor=%23FF6C37&color=ffffff)
+
 
 
 

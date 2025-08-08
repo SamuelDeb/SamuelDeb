@@ -37,7 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%20MongoDB?logo=mongodb&logoColor=white&labelColor=%2347A248&color=ffffff)
 
 #### 💻  <font color='orange'>_logiciels et outils_</font>
-![Git](https://img.shields.io/badge/GitHub%20Pages%20-%20GitHub%20Pages%20?logo=github&logoColor=white&labelColor=%23181717&color=ffffff)
+![Git](https://img.shields.io/badge/Git%20-%20Git?logo=Git&logoColor=white&labelColor=%23FF6C37&color=ffffff)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20-%20IntelliJ%20IDEA?logo=intellijidea&logoColor=white&labelColor=%23000000&color=ffffff)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-%20Eclipse%20IDE?logo=eclipseide&logoColor=white&labelColor=%232C2255&color=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20Visual%20Studio%20Code?logo=visualstudiocode&logoColor=white&labelColor=%23007ACC&color=ffffff)

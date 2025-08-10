@@ -4,12 +4,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C16&width=500&lines=D%C3%A9veloppeur+Web+et+Application+Full-Stack" alt="Typing SVG" /></a>
 </p>
-<!-- Social icons section -->
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/samuel-debaer"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+
 
 <br/>
   

@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?logo=typescript&logoColor=white&labelColor=%233178C6&color=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-SQL?logo=sqlite&logoColor=white&labelColor=%23003B57&color=ffffff)
 
-#### 🧰 <font color='orange'>_Frameworks et Libraries_</font>
+#### 🧰 <font color='orange'>_Frameworks et Librairies_</font>
 ![Quarkus](https://img.shields.io/badge/QUARKUS-QUARKUS?logo=quarkus&logoColor=white&labelColor=%234695EB&color=ffffff)
 ![String boot](https://img.shields.io/badge/StringBoot%20-%20StringBoot?logo=springboot&logoColor=white&labelColor=%236DB33F&color=ffffff)
 ![Swagger](https://img.shields.io/badge/SWAGGER-SWAGGER?logo=swagger&logoColor=white&labelColor=%2385EA2D&color=ffffff)
